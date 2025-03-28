@@ -1,0 +1,21 @@
+*.csv
+**/*.csv
+
+# 忽略所有 CSV 文件
+*.csv
+**/*.csv
+
+# 忽略 Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略 VSCode 设置（如果你用的是 VSCode）
+.vscode/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
