@@ -1,5 +1,4 @@
-*.csv
-**/*.csv
+scr/cache/
 
 # 忽略所有 CSV 文件
 *.csv
