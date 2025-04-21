@@ -1,8 +1,7 @@
 scr/cache/
 
 # 忽略所有 CSV 文件
-data/raw/1979-latest-published-year.csv
-data/raw/2015_2019.csv
+data/raw/*.csv
 
 # 忽略 Jupyter notebook checkpoints
 .ipynb_checkpoints/
